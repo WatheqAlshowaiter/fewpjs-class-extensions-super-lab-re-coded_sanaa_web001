@@ -14,6 +14,6 @@ class Tree {
     this.species = species;
   }
   static definition() {
-    return "a short definition of all trees.";
+    return "A tree is a perennial plant with an elongated stem, or trunk, supporting branches and leaves.";
   }
 }
